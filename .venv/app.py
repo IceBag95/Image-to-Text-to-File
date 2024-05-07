@@ -101,7 +101,6 @@ datalist = []
 
 
 # WINDOW SPECS
-pytesseract.pytesseract.tesseract_cmd = 'C:\\Program Files\\Tesseract-OCR\\tesseract'
 
 
 
